@@ -1,0 +1,5 @@
+# Let's ignore stuff left laying about by the linker
+*.o
+
+# ignore final binary
+st
